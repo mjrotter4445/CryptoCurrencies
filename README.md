@@ -1,5 +1,5 @@
 # Cryptocurrencies 
-*Unsupervised Machine Learning CryptoCurrency Analysis* 
+*Unsupervised Machine Learning CryptoCurrency Analysis* 💲
 ## Project Overview 
 For this project we are using several models of **Unsupervised Machine Learning** on a cryptocurrency data in order to discover 
 patterns and groups in data.   The purpose of this analysis is to create a report that includes what cryptocurrencies are on the 
