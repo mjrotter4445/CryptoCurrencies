@@ -71,7 +71,7 @@ in the original large data set.  As we can see the form of the graph, cryptocurr
 we hover over the specific element the graph shows label with Coin Name and its Algorithm.  
 
 <p align="center">
-  <img width="600" height="500" src="https://github.com/mjrotter4445/Working-File/blob/main/Figure1_Crypto%203Dviz.gif">
+  <img width="600" height="500" src="https://github.com/mjrotter4445/CryptoCurrencies/blob/main/Graphics/Figure1_Crypto%203Dviz.gif">
 </p>
 <p align="center">
 Figure 1-Cryptocurrencies clustered in 4 main groups-video
