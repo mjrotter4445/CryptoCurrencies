@@ -93,7 +93,7 @@ Figure 2-Interactive Correlation between Total Coins Supply and Total Coins Mine
 
 
 <p align="center">
-  <img width="600" height="300" src="https://github.com/mjrotter4445/Working-File/blob/main/Fig3_clust_df_tradable_crypto.jpg">
+  <img width="600" height="300" src="https://github.com/mjrotter4445/CryptoCurrencies/blob/main/Graphics/Fig3_clust_df_tradable_crypto.jpg">
 </p>
 <p align="center">
 Figure 3-Table of Tradable Crypto Coins
