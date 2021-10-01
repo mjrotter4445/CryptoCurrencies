@@ -84,7 +84,7 @@ classes that crypto coins belong to.  When we hover over the specific element th
 
 
 <p align="center">
-  <img width="800" height="400" src="https://github.com/mjrotter4445/Working-File/blob/main/fig2_2dvideo.gif">
+  <img width="800" height="400" src="https://github.com/mjrotter4445/CryptoCurrencies/blob/main/Graphics/fig2_2dvideo.gif">
 </p>
 <p align="center">
 Figure 2-Interactive Correlation between Total Coins Supply and Total Coins Mined
