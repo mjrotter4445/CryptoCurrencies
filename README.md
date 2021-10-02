@@ -18,7 +18,7 @@ I order to use unsupervised machine learning models on the data, the data needs 
 models.  There is no known output and the unsupervised ML is ideal for that type of analysis.  
 
 #### Step 1:  Reprocessing the Data 
-Before using data on unsupervised ML algorithms, the data has to pre-processed properly in order to avoid any errors and to 
+Before using data on unsupervised ML algorithms, the data has to be pre-processed properly in order to avoid any errors and to 
 ensure we are getting the right results.  
 These steps include:
  - **data selection** such as what data is available, what data is missing, and what data can be removed.
