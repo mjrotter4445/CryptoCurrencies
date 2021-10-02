@@ -7,7 +7,7 @@ trading market and how they could be grouped in order to create a classification
 cryptocurrency market. 
  
 #### Resources: 
--  Data sources:  **crypto_data.csv** (very large data file)
+-  Data sources:  **crypto_data.csv** (very large data file zipped in this folder)
 -  Sofware: **Jupyter Notebook**
 -  Languages: **Python**
 -  Libraries: **SKLearn/Scikit-learn**, **Pandas**, **Plotly**, **Maptplotlib**
@@ -74,7 +74,7 @@ we hover over the specific element the graph shows label with Coin Name and its 
   <img width="600" height="500" src="https://github.com/mjrotter4445/CryptoCurrencies/blob/main/Graphics/Figure1_Crypto%203Dviz.gif">
 </p>
 <p align="center">
-Figure 1-Cryptocurrencies clustered in 4 main groups-video
+Figure 1-Cryptocurrencies clustered in 4 main groups - video
 </p>
 
 **2D visualization and correlation between Total Coins Suply and Total Coins Mined**
@@ -87,7 +87,7 @@ classes that crypto coins belong to.  When we hover over the specific element th
   <img width="800" height="400" src="https://github.com/mjrotter4445/CryptoCurrencies/blob/main/Graphics/fig2_2dvideo.gif">
 </p>
 <p align="center">
-Figure 2-Interactive Correlation between Total Coins Supply and Total Coins Mined
+Figure 2-Interactive Correlation between Total Coins Supply and Total Coins Mined - video
 </p>
 
 
